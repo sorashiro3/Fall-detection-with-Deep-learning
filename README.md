@@ -12,6 +12,6 @@ For more detailed information, please refer to the report.
 # Important
 Please ensure that all files, especially the dataset and notebooks, are placed in the same folder.
 
-It is recommended to read the "Dataset Info" file to better understand the dataset. Additionally, reading the report may provide useful insights, though it is optional.
+It is recommended to read the **"Dataset Info"** file to better understand the dataset. Additionally, reading the report may provide useful insights, though it is optional.
 
 Thank You !!!!!
