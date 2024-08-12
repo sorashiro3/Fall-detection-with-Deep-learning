@@ -14,4 +14,6 @@ Please ensure that all files, especially the dataset and notebooks, are placed i
 
 It is recommended to read the **"Dataset Info"** file to better understand the dataset. Additionally, reading the report may provide useful insights, though it is optional.
 
+If you directely use **tflite** file given to upload the model weights in embeded boards/systems or any application.
+
 Thank You !!!!!
