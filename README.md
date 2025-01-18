@@ -12,6 +12,8 @@ For more detailed information, please refer to the report.
 # Important
 Please ensure that all files, especially the dataset and notebooks, are placed in the same folder.
 
+This is the DL model designed to detect the falling motion of a patient. It is intended to be deployed on a board equipped with an accelerometer. However, the code required for the board is not provided. (I used the Arduino BLE Sense for deployment.)
+
 It is recommended to read the **"Dataset Info"** file to better understand the dataset. Additionally, reading the report may provide useful insights, though it is optional.
 
 If you directely use **tflite** file given to upload the model weights in embeded boards/systems or any application.
